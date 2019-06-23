@@ -4,8 +4,8 @@ Citrix Hypervisor is a comprehensive server virtualization platform with enterpr
 
 ## Steps
 
-- Installling Citrix Hypervisor on the server
-- Installling Openxenmanager on the system
+- Installing Citrix Hypervisor on the server
+- Installing Openxenmanager on the system
 - Setting up VM on Hypervisor
 
 ## Installing Citrix Hypervisor on the server
